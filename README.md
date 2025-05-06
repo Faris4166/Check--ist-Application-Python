@@ -133,3 +133,7 @@ The code is organized into the following main sections:
 * เพิ่มการจัดการข้อผิดพลาดสำหรับการดำเนินการเกี่ยวกับไฟล์.
 
 ---
+
+<div align="center">
+  <img src="anime.gif">
+</div>
